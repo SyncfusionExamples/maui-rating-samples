@@ -4,6 +4,6 @@
              x:Class="GettingStarted.MainPage"
              xmlns:rating="clr-namespace:Syncfusion.Maui.Inputs;assembly=Syncfusion.Maui.Inputs">
 
-    <rating:SfRating Precision="Standard" ItemCount="5"/>
+    <rating:SfRating Precision="Standard" ItemCount="5" Value="3"/>
 
 </ContentPage>
